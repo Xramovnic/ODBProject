@@ -1,5 +1,5 @@
-== QSerialSevice ==
-
+﻿== QSerialSevice ==
+1
 Содержание:
 1. О проекте
 2. Сборка
